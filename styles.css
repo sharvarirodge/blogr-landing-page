@@ -1,0 +1,272 @@
+*
+{
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.intro
+{
+    background-image: linear-gradient(hsl(13, 100%, 72%),hsl(353, 100%, 62%));
+    
+}
+
+.navbar-brand
+{
+    color: white;
+    padding-right: 30px;
+    font-weight: 500;
+    font-size: 30px !important;
+
+    margin-top: 56px;
+}
+
+.navbar-nav
+{
+    /*padding-top: 25px;*/
+
+    margin-top: 55px;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.navbar-nav ul li
+{
+    display: inline-block;
+}
+
+.nav-item
+{
+    padding-right: 15px;
+    padding-left: 10px;
+
+}
+
+.nav-item button{
+    display: block;
+
+    background-color: white;
+    color: tomato;
+    font-weight: 300;
+    border-radius: 100px;
+    text-align: center;
+
+    margin-right: 20px;
+    display: inline-block;
+}
+
+#sign-up-button-style
+{
+    
+
+  
+}
+
+.two .text h1
+{
+    text-align: center;
+    padding-top: 70px;
+    color:hsl(0, 0%, 100%) ;  
+    
+}
+
+.two .text h4
+{
+    text-align: center;
+    color:hsl(0, 0%, 100%);
+
+    padding-top: 20px;
+    margin-top: 10px;
+    font-weight: 2;
+}
+
+.row
+{
+    justify-content: center;
+    display: grid;
+
+    margin-top: 20px;
+    padding-top:30px;
+
+}
+
+
+.row #button1
+{
+    color: tomato;
+    background-color:white;
+    justify-content: space-between;
+
+    /*padding-right: 15px;
+    margin-right: 20px;*/
+}
+
+
+
+.three
+{
+    background-color: rgba(243, 240, 240, 0.788);
+    opacity: 1;
+}
+
+.design h1
+{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.design p
+{
+    font-size: 20px;
+    color: g;
+}
+
+.three .col-md-6
+{
+    justify-content: center;
+}
+
+.text-content-left
+{
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.text-content-left h1
+{
+    text-align: left;
+    font-size: 20px;
+
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    margin-top: 70px;
+
+}
+
+
+.text-content-left p
+{
+    text-align: left;
+    font-size: 16px;
+    color: rgb(129, 127, 127);
+    font-weight: 50;
+
+
+   
+    padding-bottom: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+   
+}
+
+.col-md-6 img
+{
+    height:90%;
+    width: 100%;
+    max-width: 100%;
+    padding-left: 150px;
+}
+
+
+.four
+{
+    background-color: hsl(236, 44%, 15%);
+}
+
+#bg-pattern-circles
+{
+    background-repeat: no-repeat;
+    margin-top: -250px;
+    opacity: 1;
+}
+
+#phone
+{
+    margin-top: -300px;
+    opacity: 0.9;
+}
+
+
+.right-col
+{
+    text-align: center;
+}
+
+.right-col h1
+{
+    color: white;
+    padding-top: 25px;
+    font-size: 30px;
+}
+
+.right-col p
+{
+    color: white;
+    font-size: 16px;
+
+    padding-top: 100px;
+}
+
+
+
+/*five*/
+.five
+{
+    background-color: rgba(243, 240, 240, 0.788);
+
+}
+
+.five .col-md-6
+{
+    justify-content: center;
+}
+
+.text-content
+{
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.text-content h1
+{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    color: black;
+
+}
+
+
+.text-content p
+{
+    text-align: left;
+    font-size: 16px;
+    color: rgb(129, 127, 127);
+    font-weight: 50;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+   
+}
+
+.col-md-6 img
+{
+    height:90%;
+    width: 100%;
+    max-width: 100%;
+    padding-left: 150px;
+}
+
+
+/*footer*/
+.six-footer
+{
+    background-color: hsl(240, 10%, 16%);
+    color: white;
+}
+
